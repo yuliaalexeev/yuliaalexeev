@@ -4,6 +4,7 @@
 **yuliaalexeev/yuliaalexeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![github-header-image](https://user-images.githubusercontent.com/19981534/170818892-27101dcf-bbc9-45d7-bc02-43311fa7c2a2.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,9 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...![github-header-image (3)](https://user-images.githubusercontent.com/19981534/170818860-9eb0bc40-34d3-456f-8ea0-4ddd7d40b708.png)
-
+- ⚡ Fun fact: ...
 -->
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
